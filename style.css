@@ -12,3 +12,16 @@
     margin: 50px 60px 50px 60px;
 
 }
+
+.card-img-top 
+{
+    margin: auto;
+    width: 30% !important;
+}
+
+.d-block 
+{
+    width: 100px;
+    height: 500px;
+}
+
