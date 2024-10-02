@@ -4,6 +4,20 @@
  text-align: center;
 }
 
+.nav-underline
+{
+position: fixed;
+z-index: 999999;
+backdrop-filter: blur(10px); /* Efecto de desenfoque */
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1); /* Sombra suave */
+border-bottom: 1px solid rgba(255, 255, 255, 0.3); /* Borde claro */
+}
+
+.nav-underline:hover
+{
+    color: chartreuse;
+}
+
 .parrafos 
 {
     color: black;
@@ -21,9 +35,23 @@
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
+.btn-primary
+{
+    box-shadow: 20px 20px 30px rgba(0, 0, 0, 0.3); /* Sombra del botón */
+    transition: box-shadow 0.3s ease; /* Transición suave */
+}
+
 .d-block 
 {
     width: 100px;
     height: 500px;
+}
+
+.card-text
+{
+    margin: auto;
+    padding: 0.5rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
 }
 
