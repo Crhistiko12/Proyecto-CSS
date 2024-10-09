@@ -1,3 +1,10 @@
+body
+{
+    background-image: url(img/images.jpeg);
+    background-repeat: no-repeat; /* Evita que la imagen se repita */
+    background-size: cover; /* Hace que la imagen cubra toda la pantalla */
+}
+
 .titulos
 {
  color: cadetblue;
@@ -56,5 +63,24 @@ border-bottom: 1px solid rgba(255, 255, 255, 0.3); /* Borde claro */
     padding: 0.5rem;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     text-align: center;
+}
+
+.carousel
+{
+    margin: auto;
+    width: 60%;
+    
+}
+.carousel-inner
+{
+    border-radius: 15px;
+}
+
+.card
+{
+    opacity: 0.8; /* Ajusta el valor entre 0 (completamente transparente) y 1 (completamente opaco) */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
