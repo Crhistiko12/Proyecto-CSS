@@ -8,20 +8,7 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <ul class="nav justify-content-center">
-        <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="index.html"  >Inicio</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="productos.html">Productos</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="contactos.html" target="_blank">Contactos</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link disabled" aria-disabled="true">2024</a>
-        </li>
-      </ul>
+  <?php require_once "header.php"; ?>
       <div id="carouselExampleInterval" class="carousel slide" data-bs-ride="carousel">
         <div class="carousel-inner">
           <div class="carousel-item active" data-bs-interval="10000">
@@ -55,6 +42,10 @@
             <div class="card-footer">
               <small class="text-body-secondary">Actualizado hace 2 min.</small>
               <button type="button" class="btn btn-warning">Añadir al carrito</button>
+<button class="buttonpro">
+  <span> Comprar</span>
+</button>
+
             </div>
           </div>
         </div>
@@ -71,6 +62,9 @@
             <div class="card-footer">
               <small class="text-body-secondary">Actualizado hace 2 min.</small>
               <button type="button" class="btn btn-warning">Añadir al carrito</button>
+<button class="buttonpro">
+<span> Comprar</span>
+</button>
             </div>
           </div>
         </div>
@@ -84,6 +78,9 @@
             <div class="card-footer">
               <small class="text-body-secondary">Actualizado hace 2 min.</small>
               <button type="button" class="btn btn-warning">Añadir al carrito</button>
+<button class="buttonpro">
+<span> Comprar</span>
+</button>
             </div>
           </div>
         </div>

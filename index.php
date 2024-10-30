@@ -8,22 +8,7 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <nav>
-        <ul class="nav nav-underline">
-            <li class="nav-item">
-              <a class="nav-link active" aria-current="page" href="index.html">Inicio</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="productos.html" target="_blank">Productos</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="contactos.html" target="_blank">Contacto</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link disabled" aria-disabled="true">2024</a>
-            </li>
-          </ul>
-    </nav>
+    <?php require_once "header.php"; ?>
 
     <div id="carouselExampleInterval" class="carousel slide" data-bs-ride="carousel">
         <div class="carousel-inner">
@@ -56,10 +41,10 @@
           <p class="card-text">PROMAC es una empresa especializada en la producción y comercialización de productos naturales 100% puros, sin aditivos, conservantes ni químicos, comprometida con el bienestar y la salud de sus clientes. Su producto estrella, el vinagre de manzana, refleja su misión de ofrecer alternativas saludables que promuevan un estilo de vida más natural y equilibrado.
 
             Además de su enfoque en productos de alta calidad, PROMAC se distingue por su visión innovadora al apoyar a emprendedores y pequeñas empresas. Ofrecen una variedad de servicios como la creación de sitios web, desarrollo de aplicaciones móviles, estrategias de marketing digital y consultoría empresarial, ayudando a sus clientes a destacar en sus respectivos sectores. Con una mentalidad firme y determinada, PROMAC trabaja con objetivos claros para alcanzar el éxito y contribuir al crecimiento tanto de su propia marca como de los negocios con los que colabora. La empresa se guía por los principios de sostenibilidad y transparencia, garantizando que sus productos y servicios estén alineados con las necesidades de un mercado en constante evolución y en búsqueda de soluciones naturales.</p>
-          <a href="productos.html" class="btn btn-primary">Ver Productos</a>
+          <a href="productos.php" class="btn btn-primary">Ver Productos</a>
         </div>
         <div class="card-footer text-body-secondary">
-          10/02/2024
+          10/30/2024
         </div>
       </div>
   

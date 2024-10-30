@@ -9,20 +9,7 @@
 
 </head>
 <body>
-    <ul class="nav justify-content-center">
-        <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="index.html" target="_blank">Inicio</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="productos.html" target="_blank">Productos</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="contactos.html">Contactos</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link disabled" aria-disabled="true">2024</a>
-        </li>
-      </ul>
+<?php require_once "header.php"; ?>
       <div id="carouselExampleInterval" class="carousel slide" data-bs-ride="carousel">
         <div class="carousel-inner">
           <div class="carousel-item active" data-bs-interval="10000">
