@@ -40,8 +40,7 @@
               <p class="card-text">Limpia tu cuerpo de manera natural con nuestro vinagre de manzana puro.</p>
             </div>
             <div class="card-footer">
-              <small class="text-body-secondary">Actualizado hace 2 min.</small>
-              <button type="button" class="btn btn-warning">Añadir al carrito</button>
+              
 <button class="buttonpro">
   <span> Comprar</span>
 </button>
@@ -60,8 +59,7 @@
               </p>
             </div>
             <div class="card-footer">
-              <small class="text-body-secondary">Actualizado hace 2 min.</small>
-              <button type="button" class="btn btn-warning">Añadir al carrito</button>
+              
 <button class="buttonpro">
 <span> Comprar</span>
 </button>
@@ -76,8 +74,6 @@
               <p class="card-text">La piña es rica en vitamina C y otros antioxidantes que ayudan a combatir el daño de los radicales libres, protegiendo las células del envejecimiento y reduciendo el riesgo de enfermedades crónicas.</p>
             </div>
             <div class="card-footer">
-              <small class="text-body-secondary">Actualizado hace 2 min.</small>
-              <button type="button" class="btn btn-warning">Añadir al carrito</button>
 <button class="buttonpro">
 <span> Comprar</span>
 </button>
