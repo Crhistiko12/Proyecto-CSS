@@ -16,10 +16,10 @@
             <img src="img/Productos/Trabajos%20echos/Contacto/PERRETOS.png" class="d-block w-100 " alt="logo">
           </div>
           <div class="carousel-item" data-bs-interval="2000">
-            <img src="img/Descargar fondos de pantalla por la mañana, lago, niebla, montañas, bosque, Alterschrofen, Baviera, Alemania libre_ Imágenes fondos de descarga gratuita.jpg" class="d-block w-100" alt="img">
+            <img src="img/Productos/Trabajos%20echos/Contacto/PERRETOS.png" class="d-block w-100" alt="img">
           </div>
           <div class="carousel-item">
-            <img src="img/portada.jpg" class="d-block w-100" alt="portada">
+            <img src="img/Productos/Trabajos%20echos/Contacto/gatetos.png" class="d-block w-100" alt="portada">
           </div>
         </div>
         <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleInterval" data-bs-slide="prev">
