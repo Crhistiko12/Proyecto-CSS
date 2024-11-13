@@ -10,16 +10,16 @@
 </head>
 <body>
 <?php require_once "header.php"; ?>
-      <div id="carouselExampleInterval" class="carousel slide" data-bs-ride="carousel">
+<div id="carouselExampleInterval" class="carousel slide" data-bs-ride="carousel">
         <div class="carousel-inner">
           <div class="carousel-item active" data-bs-interval="10000">
-            <img src="..." class="d-block w-100" alt="...">
+            <img src="img/Productos/Trabajos%20echos/Contacto/PERRETOS.png" class="d-block w-100 " alt="logo">
           </div>
           <div class="carousel-item" data-bs-interval="2000">
-            <img src="..." class="d-block w-100" alt="...">
+            <img src="img/Descargar fondos de pantalla por la mañana, lago, niebla, montañas, bosque, Alterschrofen, Baviera, Alemania libre_ Imágenes fondos de descarga gratuita.jpg" class="d-block w-100" alt="img">
           </div>
           <div class="carousel-item">
-            <img src="..." class="d-block w-100" alt="...">
+            <img src="img/portada.jpg" class="d-block w-100" alt="portada">
           </div>
         </div>
         <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleInterval" data-bs-slide="prev">
@@ -31,6 +31,50 @@
           <span class="visually-hidden">Next</span>
         </button>
       </div>
+
+      
+<div class="form-card1">
+  <div class="form-card2">
+    <form class="form">
+      <p class="form-heading">Contacta con nosotros</p>
+
+      <div class="form-field">
+        <input required="" placeholder="Nombre Completo" class="input-field" type="text" />
+      </div>
+
+      <div class="form-field">
+        <input
+          required=""
+          placeholder="Email"
+          class="input-field"
+          type="email"
+        />
+      </div>
+
+      <div class="form-field">
+        <input
+          required=""
+          placeholder="Asunto"
+          class="input-field"
+          type="text"
+        />
+      </div>
+
+      <div class="form-field">
+        <textarea
+          required=""
+          placeholder="Mensaje"
+          cols="30"
+          rows="3"
+          class="input-field"
+        ></textarea>
+      </div>
+
+      <button class="sendMessage-btn">Enviar Mensaje</button>
+    </form>
+  </div>
+</div>
+
 
     
 
