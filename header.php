@@ -6,10 +6,10 @@
               <a class="nav-link header-link active" aria-current="page" href="index.php">Inicio</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link header-link" href="productos.php" target="_blank">Productos</a>
+              <a class="nav-link header-link" href="productos.php" >Productos</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link header-link" href="contactos.php" target="_blank">Contacto</a>
+              <a class="nav-link header-link" href="contactos.php" >Contacto</a>
             </li>
             <li class="nav-item">
               <a class="nav-link header-link disabled" aria-disabled="true">2024</a>
