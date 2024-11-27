@@ -308,7 +308,22 @@ element.style {
 
   /* From Uiverse.io by zjssun */ 
 .button {
-  position: relative;
+  border: none;
+  background: transparent;
+  --stroke-color: #ffffff7c;
+  --ani-color: rgba(95, 3, 244, 0);
+  --color-gar: linear-gradient(90deg,#03a9f4,#f441a5,#ffeb3b,#03a9f4);
+  letter-spacing: 3px;
+  font-size: 2em;
+  font-family: "Arial";
+  text-transform: uppercase;
+  color: transparent;
+  -webkit-text-stroke: 1px var(--stroke-color);
+  cursor: pointer;
+}
+.pie-button
+{
+  position: absolute;
   border: none;
   background: transparent;
   --stroke-color: #ffffff7c;
@@ -338,7 +353,7 @@ element.style {
   border-bottom: 2px solid transparent;
 }
 
-.button:hover .front-text {
+.button:hover .front-text,.pie-button:hover .front-text{
   width: 100%;
   border-bottom: 2px solid #10e72c;
   -webkit-text-stroke: 1px var(--ani-color);
@@ -372,7 +387,8 @@ element.style {
   border-radius: 20px;
 }
 
-.form-heading {
+.form-heading 
+{
   width: 50%;
   text-align: center;
   margin: 2em;
@@ -454,11 +470,21 @@ element.style {
 
 .redes
 {
+  top: -100%;
+  left: 20%;
+  position: absolute;
   margin-top: 10rem;
   color: cadetblue;
   text-align: right;
 }
 
+.pie_de_pagina
+{
+  position: absolute;
+  top: 75%;
+  color: cadetblue;
+  text-align: right;
+}
 
   
 

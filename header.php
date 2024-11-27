@@ -12,7 +12,7 @@
               <a class="nav-link header-link" href="contactos.php" >Contacto</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link header-link disabled" aria-disabled="true">2024</a>
+              <a class="nav-link header-link disabled" aria-disabled="true"></a>
             </li>
           </ul>
 </nav>
