@@ -44,9 +44,7 @@
             Además de su enfoque en productos de alta calidad, PROMAC se distingue por su visión innovadora al apoyar a emprendedores y pequeñas empresas. Ofrecen una variedad de servicios como la creación de sitios web, desarrollo de aplicaciones móviles, estrategias de marketing digital y consultoría empresarial, ayudando a sus clientes a destacar en sus respectivos sectores. Con una mentalidad firme y determinada, PROMAC trabaja con objetivos claros para alcanzar el éxito y contribuir al crecimiento tanto de su propia marca como de los negocios con los que colabora. La empresa se guía por los principios de sostenibilidad y transparencia, garantizando que sus productos y servicios estén alineados con las necesidades de un mercado en constante evolución y en búsqueda de soluciones naturales.</p>
           <a href="productos.php" class="btn btn-primary">Ver Productos</a>
         </div>
-        <div class="card-footer text-body-secondary">
-          10/30/2024
-        </div>
+        
       </div>
   
 
